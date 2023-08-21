@@ -41,7 +41,7 @@ public class Main {
 
                 double ergebnis = 0;
 
-                // switcg
+
 
                 switch (option) {
                     case 2:
